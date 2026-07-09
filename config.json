@@ -1,1 +1,37 @@
-
+{
+  "executors": [
+    {
+      "id": "solara",
+      "name": "Solara",
+      "icon": "🚀",
+      "color": "#00ffcc",
+      "description": "Популярный экзекьютор для Roblox",
+      "direct_url": "https://getsolara.dev/download/static/files/BootstrapperNew.exe",
+      "filename": "BootstrapperNew.exe",
+      "version": "1.3.5",
+      "author": "Solara Team"
+    },
+    {
+      "id": "xeno",
+      "name": "Xeno",
+      "icon": "👾",
+      "color": "#ffaa00",
+      "description": "Новая версия Xeno NEW UI Beta (Key-Less)",
+      "direct_url": "https://xeno-executor.com/beta.exe",
+      "filename": "beta.exe",
+      "version": "1.3.55",
+      "author": "Xeno Team"
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "icon": "🌙",
+      "color": "#ff66ff",
+      "description": "Новый экзекьютор от Luna Team",
+      "direct_url": "https://raw.githubusercontent.com/ivanminakow-code/LUNAE/main/Bootstrapper.exe",
+      "filename": "Bootstrapper.exe",
+      "version": "1.0.0",
+      "author": "Luna Team"
+    }
+  ]
+}
