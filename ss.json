@@ -1,1 +1,26 @@
-
+{
+  "scripts": [
+    {
+      "id": "ultimate-fly",
+      "name": "ULTIMATE FLY GUI",
+      "icon": "🕊️",
+      "color": "#00ff88",
+      "description": "Красивый GUI для полёта с настраиваемой скоростью",
+      "direct_url": "https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt",
+      "filename": "FlyGuiV3.lua",
+      "version": "3.0",
+      "author": "XNEOFF"
+    },
+    {
+      "id": "thunderhub-mm2",
+      "name": "THUNDERHUB MM2",
+      "icon": "⚡",
+      "color": "#ffcc00",
+      "description": "Хаб для Murder Mystery 2 с множеством функций",
+      "direct_url": "https://raw.githubusercontent.com/thunderXhub/ThunderXHUB/refs/heads/main/loader",
+      "filename": "ThunderHub.lua",
+      "version": "1.0",
+      "author": "ThunderXhub"
+    }
+  ]
+}
